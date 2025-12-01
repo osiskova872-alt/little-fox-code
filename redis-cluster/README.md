@@ -33,6 +33,9 @@ chmod +x *.sh
 
 # 5. Verify cluster status
 ./check-cluster.sh
+
+
+\
 Cluster Architecture
 3 Master nodes (ports: 7001-7003)
 
